@@ -36,3 +36,7 @@ La ejecucion de scripts esta deshabilitada en este sistema
 - ng g c nombreComponente (Forma simplificada)
 - ng g c nombreComponente --skipTests=true (Para evitar que se cree el archivo de laboratorio)
 
+# Trabajar sin modo estricto
+"strictPropertyInitialization": false,
+Esta linea va en en archivo tsconfig.js
+
