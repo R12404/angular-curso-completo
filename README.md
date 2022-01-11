@@ -34,4 +34,5 @@ La ejecucion de scripts esta deshabilitada en este sistema
 # Creacion de nuevos componentes usando el CLI de Angular
 - ng generate component nombreComponente 
 - ng g c nombreComponente (Forma simplificada)
+- ng g c nombreComponente --skipTests=true (Para evitar que se cree el archivo de laboratorio)
 
